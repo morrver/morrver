@@ -1,5 +1,7 @@
 ## Hi there 👋
+I'm currently uploading projects for the CS50x online course that I'm working on, although I hope to add some of personal interest in the future.
 
+I have experience with C and Python.
 <!--
 **morrver/morrver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
